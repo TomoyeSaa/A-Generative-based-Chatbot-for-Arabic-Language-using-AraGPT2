@@ -1,0 +1,2 @@
+# A-Generative-based-Chatbot-for-Arabic-Language-using-AraGPT2
+A Generative based Chatbot for Arabic Language using AraGPT2 is a natural language processing system that uses deep learning to generate human-like responses in Arabic. AraGPT2 is a pre-trained language model that has been trained on a large corpus of Arabic text. The chatbot can engage in a conversation with users and provide relevant responses.
